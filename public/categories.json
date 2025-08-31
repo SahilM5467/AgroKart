@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Seeds",
+    "image": "/images/Seeds-Products.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Fertilizers",
+    "image": "/images/Fertilizer-Products.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Pesticides",
+    "image": "/images/Pesticide-Products.jpg"
+  }
+]

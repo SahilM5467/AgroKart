@@ -1,0 +1,832 @@
+[
+  {
+    "id": "1",
+    "name": "Veer Hybrid Wheat Seeds",
+    "category": "Seeds",
+    "price": 250,
+    "company": "Nuziveedu Seeds",
+    "description": "Crop matures in 125-130 days \n Medium compact bold spike \n Heat & drought tolerance \n Good chapatti quality \n Bold lustrous grains",
+    "image": "https://nuziveeduseeds.com/wp-content/uploads/2023/07/Veer-1201x1536.webp",
+    "unit": "1 Kg"
+  },
+  {
+    "id": "2",
+    "name": "Balwan NBH-4903 Hybrid  Bajara Seeds",
+    "category": "Seeds",
+    "price": 200,
+    "company": "Nuziveedu Seeds",
+    "description": "Crop matures in 80-85 days \n More tillers \n High grain and fodder yielder - Dual purpose \n Long and compact ear head \n Attractive light grey grain colou",
+    "image": "https://nuziveeduseeds.com/wp-content/uploads/2023/07/Balwan-1188x1536.webp",
+    "unit": "1 Kg"
+  },
+  {
+    "id": "3",
+    "name": "Danvir NMH-1368 Hybrid  Maize Seeds",
+    "category": "Seeds",
+    "price": 700,
+    "company": "Nuziveedu Seeds",
+    "description": "Crop matures in 100-105 days \n 16 -18 kernel rows/cob \n High shelling percentage (80-82 %) \n Heat tolerance \n Fast dry down",
+    "image": "https://nuziveeduseeds.com/wp-content/uploads/2023/07/NMH-1368-Dhanvir.webp",
+    "unit": "1 kg"
+  },
+  {
+    "id": "4",
+    "name": "Zordar NMH-90M01 Hybrid  Mustard Seeds",
+    "category": "Seeds",
+    "price": 600,
+    "company": "Nuziveedu Seeds",
+    "description": "Crop matures in 120-125 days \n Tolerance to frost & stem rot \n Shattering tolerance \n More branches with more number of siliqua \n Bold seeds with high oil content",
+    "image": "https://nuziveeduseeds.com/wp-content/uploads/2023/07/NMH-90M01-Zordar.webp",
+    "unit": "1 kg"
+  },
+  {
+    "id": "5",
+    "name": "Siri NCS 927 BG Hybrid Cotton Seeds",
+    "category": "Seeds",
+    "price": 800,
+    "company": "Nuziveedu Seeds",
+    "description": "Excellent Sucking Pest Tolerance \n Early Maturity \n High Ginning Out Turn \n Compact Plant Type",
+    "image": "https://nuziveeduseeds.com/wp-content/uploads/2023/07/NCS-927-Siri.webp",
+    "unit": "500 Gram"
+  },
+  {
+    "id": "6",
+    "name": "NCS-858 Hybrid Cotton Seeds",
+    "category": "Seeds",
+    "price": 1000,
+    "company": "Nuziveedu Seeds",
+    "description": "Very Early Maturity \n Excellent Sucking Pest Tolerance \n Compact Plant Type \n Very High Ginning Out Turn",
+    "image": "https://nuziveeduseeds.com/wp-content/uploads/2023/07/NCS-858-2.webp",
+    "unit": "500 Gram"
+  },
+  {
+    "id": "7",
+    "name": "Moti NCS 9024 Hybrid Cotton Seeds",
+    "category": "Seeds",
+    "price": 900,
+    "company": "Nuziveedu Seeds",
+    "description": "Tall & Open Plant \n Sucking Pest Tolerance \n Big Boll-Easy Picking",
+    "image": "https://nuziveeduseeds.com/wp-content/uploads/2023/07/NCS-9024-Moti.webp",
+    "unit": "500 Gram"
+  },
+  {
+    "id": "8",
+    "name": "Guntur Wonder (NCH-6319) Hybrid Chili Seeds",
+    "category": "Seeds",
+    "price": 300,
+    "company": "Nuziveedu Seeds",
+    "description": "Sturdy semi-erect plant type \n Dark red, 12 x1.4 cm fruits \n Ideal for good quality powder making \n Tolerant to LCV",
+    "image": "https://nuziveeduseeds.com/wp-content/uploads/2023/12/chilli-guntuwonder2.png",
+    "unit": "500 Gram"
+  },
+  {
+    "id": "9",
+    "name": "Trisha (NCH-473) Hybrid Chili Seeds",
+    "category": "Seeds",
+    "price": 500,
+    "company": "Nuziveedu Seeds",
+    "description": "Good plant vigour \n Light green, glossy, 14-16 cm fruits \n Good Tolerance to LCV and PM \n Good heat set",
+    "image": "https://nuziveeduseeds.com/wp-content/uploads/2023/12/chilli-trisha-1.png",
+    "unit": "500 Gram"
+  },
+  {
+    "id": "10",
+    "name": "Surya (NTH 1009) Hybrid Tomato Seeds",
+    "category": "Seeds",
+    "price": 400,
+    "company": "Nuziveedu Seeds",
+    "description": "Semi Determinate plant type \n Flattened & firm fruits with 90-95 gm weight \n Excellent for long distance transportation \n Med tolerance to LCV and Heat",
+    "image": "https://nuziveeduseeds.com/wp-content/uploads/2023/12/tomato-surya-1.png",
+    "unit": "10 Gram"
+  },
+  {
+    "id": "11",
+    "name": "Marvel (NOKH-1003) Hybrid Okra (Lady's Finger) Seeds",
+    "category": "Seeds",
+    "price": 450,
+    "company": "Nuziveedu Seeds",
+    "description": "Vigorous plant \n Fruits are thin, long, tender & uniform in size \n Good storability and transportability",
+    "image": "https://nuziveeduseeds.com/wp-content/uploads/2023/12/okra-marvel.png",
+    "unit": "100 Gram"
+  },
+  {
+    "id": "12",
+    "name": "Winner Hybrid Cauliflower Seeds",
+    "category": "Seeds",
+    "price": 680,
+    "company": "Nuziveedu Seeds",
+    "description": "Erect plant habit \n 80-90 days to maturity \n White dome shape curds with good head compactness \n 1000-1200gm curd weight",
+    "image": "https://nuziveeduseeds.com/wp-content/uploads/2023/12/cauliflower-winner.png",
+    "unit": "10 Gram"
+  },
+  {
+    "id": "13",
+    "name": "Prabas ( NHCB-124 ) Hybrid Cabbage Seeds",
+    "category": "Seeds",
+    "price": 350,
+    "company": "Nuziveedu Seeds",
+    "description": "Mid maturity, 70-75 days after transplanting \n Uniform, round and highly compact heads \n Average head weight is 1000-1200 gm \nTolerance to Black rot",
+    "image": "https://nuziveeduseeds.com/wp-content/uploads/2023/12/cabbage-prabhas-1.png",
+    "unit": "10 Gram"
+  },
+  {
+    "id": "14",
+    "name": "RASI-SWIFT-971 Hybrid Cotton Seeds",
+    "category": "Seeds",
+    "price": 870,
+    "company": "Rasi Seeds",
+    "description": "Medium Duration with Early Flowering \n Synchronised Boll Bursting \n Better Tolerance to TSV & sucking pest complex \n Suitable for Closer Spacing Plantation",
+    "image": "https://corporate.rasiseeds.com/Corporate/customer_site/assets/img/rasi/products/cotton/Rasi%20Swift%20(RCH%20971%20BG%20II).png",
+    "unit": "500 Gram"
+  },
+  {
+    "id": "15",
+    "name": "5454 Hybrid Maize Seeds",
+    "category": "Seeds",
+    "price": 260,
+    "company": "Rasi Seeds",
+    "description": "Medium late maturity Rabi hybrid \n Uniform plants and cobs \n Medium plant height with strong root system, lodging tolerance \n Stay green character",
+    "image": "https://corporate.rasiseeds.com/Corporate/customer_site/assets/img/rasi/products/field_crops/5454.png",
+    "unit": "1 Kg"
+  },
+  {
+    "id": "16",
+    "name": "RMX-9922 Hybrid Mustard Seeds",
+    "category": "Seeds",
+    "price": 1075,
+    "company": "Rasi Seeds",
+    "description": "Medium maturity:130-135 days \n More Pods Per Plant for Higher Yield \n More basal branching and good number of pods with higher grains. \n Bold Seeds and Higher Oil Content \nDisease Tolerant, frost tolerance to Seed Shettering",
+    "image": "https://corporate.rasiseeds.com/Corporate/customer_site/assets/img/rasi/products/field_crops/RMX-9922.png",
+    "unit": "1 Kg"
+  },
+  {
+    "id": "17",
+    "name": "RRX-5067 Hybrid Paddy Seeds",
+    "category": "Seeds",
+    "price": 250,
+    "company": "Rasi Seeds",
+    "description": "Early duration- 105-110 days \nSuitable for upland cultivation \nLong and heavy panicle",
+    "image": "https://corporate.rasiseeds.com/Corporate/customer_site/assets/img/rasi/products/field_crops/RRX-5067.png",
+    "unit": "1 Kg"
+  },
+  {
+    "id": "18",
+    "name": "G-20 Groundnut (20 Kg) Seed",
+    "category": "Seeds",
+    "price": 2580,
+    "company": "Agrostar",
+    "description": "Early duration- 105-110 days \nSuitable for upland cultivation \nLong and heavy panicle",
+    "image": "https://static.agrostar.in/static/AGS-S-4507_N_l.jpg",
+    "unit": "20 Kg"
+  },
+  {
+    "id": "19",
+    "name": "DAP 18-46-0 Fertilizer",
+    "category": "Fertilizers",
+    "price": 1350,
+    "company": "IFFCO",
+    "description": "It is a concentrated phosphate-based fertilizer containing 18% Nitrogen and 46% Phosphorus (P2O5). \n DAP provides phosphorus throughout the crop growth cycle and fulfills the initial requirements of nitrogen and sulfur. \n It is vital for the development of new plant tissues and regulation of protein synthesis. \n It can be applied in the soil before cultivation, at the time of sowing, or when crops are sown, considering factors like placement, ratio, and timing within the crop cycle.",
+    "image": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2020-04/18-46-0-%28DAP%29_1.png",
+    "unit": "50 Kg"
+  },
+  {
+    "id": "20",
+    "name": "NPK 10-26-26 Fertilizer",
+    "category": "Fertilizers",
+    "price": 1720,
+    "company": "IFFCO",
+    "description": "NPK 10-26-26 is a granular fertilizer providing 10% Nitrogen, 26% Phosphorus, and 26% Potassium. \n This blend is ideal for supporting early plant development, promoting root growth, increasing fruit and flower production, and improving grain yield. \n Its high phosphorus and potassium content makes it particularly effective in soils requiring these nutrients or in situations with heavy nutrient leaching.",
+    "image": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2020-06/10-26-26-%28NPK%29.png",
+    "unit": "50 Kg"
+  },
+  {
+    "id": "21",
+    "name": "Ammonium Phosphate Sulphate (APS) 20-20-0-13 Fertilizer",
+    "category": "Fertilizers",
+    "price": 1300,
+    "company": "IFFCO",
+    "description": "IFFCO NPK 20-20-0-13 is an Ammonium Phosphate Sulphate (APS) fertilizer providing 20% Nitrogen, 20% Phosphorus, and 13% Sulphur. \n Which aids in overall plant growth, chlorophyll synthesis, and improved yield, particularly for crops requiring high Sulphur content.",
+    "image": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/np-20-20-0-13.png",
+    "unit": "50 Kg"
+  },
+  {
+    "id": "22",
+    "name": "Neem coated Urea Fertilizer",
+    "category": "Fertilizers",
+    "price": 250,
+    "company": "IFFCO",
+    "description": " IFFCO Neem Coated Urea is a granular nitrogenous fertilizer, typically containing 46% Nitrogen, that is coated with neem oil. \n  This coating slows down the rate at which the urea releases nitrogen into the soil, allowing for a more gradual and efficient uptake by crops. \n It also helps reduce nitrogen loss due to volatilization, denitrification, and leaching, leading to improved nutrient efficiency, increased crop yields, and healthier soil conditions.",
+    "image": " https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2020-04/UREA_0.png ",
+    "unit": "45 Kg"
+  },
+  {
+    "id": "23",
+    "name": "Urea Phosphate with S.O.P. Water-SolaubleFertilizer",
+    "category": "Fertilizers",
+    "price": 3500,
+    "company": "IFFCO",
+    "description": " IFFCO Urea Phosphate with S.O.P. (often found with a composition like 18:18:18 and 6.1% S) is a water-soluble fertilizer that provides a balanced combination of Nitrogen, Phosphorus, and Sulphur, along with Potassium (from Sulphate of Potash), according to iffco. \n It is designed for efficient nutrient delivery through fertigation (mixing with irrigation water) and foliar spraying, making it ideal for high-efficiency farming practices.",
+    "image": " https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2022-02/UREA%2018%2018%2018%20Front.png ",
+    "unit": "25 Kg"
+  },
+  {
+    "id": "24",
+    "name": "Nano Urea 500 ML Fertilizer",
+    "category": "Fertilizers",
+    "price": 225,
+    "company": "IFFCO",
+    "description": " IFFCO Nano Urea (liquid) is a revolutionary nanotechnology-based nitrogen fertilizer that offers a sustainable and efficient way to provide plants with the essential nutrient nitrogen. \n It is formulated with nano-sized urea particles (20-50 nm) dispersed in water, allowing for easier and more effective absorption by plants through foliar spraying. \n This leads to enhanced nitrogen use efficiency, minimized nutrient loss (from leaching, volatilization, etc.), increased crop yields, improved food quality, and a reduced environmental footprint, according to iffco. \n It also provides better food quality with increased protein and nutrient content, and reduces the environmental impact compared to conventional urea use.",
+    "image": " https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2023-10/Nano-Fertilizer-inside-Page-image.png ",
+    "unit": "500 ML"
+  },
+  {
+    "id": "25",
+    "name": "Nano DAP 500 ML Fertilizer",
+    "category": "Fertilizers",
+    "price": 600,
+    "company": "IFFCO",
+    "description": " IFFCO Nano DAP (Diammonium Phosphate) is a nanotechnology-based liquid fertilizer designed to deliver nitrogen (8.0% N w/v) and phosphorus (16.0% P2O5 w/v) more efficiently to plants. \n Its nano-sized particles (<100 nm) allow for easier absorption through seed surfaces, stomata, and other plant openings, leading to improved nutrient uptake and reduced fertilizer usage compared to conventional DAP. \n It promotes higher seed vigour, increased chlorophyll content, enhanced photosynthetic efficiency, better quality produce, and higher crop yields. According to nanodap.in, this eco-friendly fertilizer is suitable for a wide range of crops including cereals, pulses, vegetables, fruits, and flowers, contributing to sustainable agriculture by minimizing environmental pollution.",
+    "image": " https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2023-07/nano-dap_1.png ",
+    "unit": "500 ML"
+  },
+  {
+    "id": "26",
+    "name": "Nano Zinc 100 ML Fertilizer",
+    "category": "Fertilizers",
+    "price": 200,
+    "company": "IFFCO",
+    "description": " IFFCO Nano Zinc (1%) fertilizer is a nanotechnology-based liquid micronutrient fertilizer developed to address zinc deficiencies in crops. \n It contains 1% Zinc (Zn), along with chelating agents and stabilizers, formulated as nano-sized particles (typically within the range of 10-80 nm) dispersed in water. \n This nano-formulation allows for enhanced absorption by plants through both foliar spraying and drip irrigation.",
+    "image": " https://5.imimg.com/data5/SELLER/Default/2025/8/536671881/TD/ZQ/DL/191111109/iffco-nano-dap-250-ml-1000x1000.jpg ",
+    "unit": "100 ML"
+  },
+  {
+    "id": "27",
+    "name": "Nano Copper 100 ML Fertilizer",
+    "category": "Fertilizers",
+    "price": 200,
+    "company": "IFFCO",
+    "description": " IFFCO Nano Zinc (1%) formulation boosts plant growth by improving nutrient uptake & root pro-liferation. \n It enhances the flowering & fruit set in crops. \n Nano Zinc act as a shield against abiotic stresses promoting resilience. \n It increases crop yield by optimizing overall physiological process.",
+    "image" : " https://nanoventions.in/wp-content/uploads/2025/02/nano-copper.jpg ",
+    "unit": "100 ML"
+  },
+  {
+    "id": "28",
+    "name": "Bharat Urea (Neem Coated Urea)",
+    "category": "Fertilizers",
+    "price": 240,
+    "company": "KRIBHCO",
+    "description": " KRIBHCO Neem Coated Urea is a slow-release nitrogen fertilizer that improves nutrient efficiency and crop yield by coating prilled urea with neem oil. The neem acts as a nitrification inhibitor, extending the availability of nitrogen to plants over a longer period. This reduces nitrogen loss due to volatilization and leaching and can also repel soil-borne pests.",
+    "image": " https://www.kribhco.net/assets/img/product/bharat_urea.jpg ",
+    "unit": "45 Kg"
+  },
+  {
+    "id": "29",
+    "name": " Bharat DAP (Di-Ammonium Phosphate)",
+    "category": "Fertilizers",
+    "price": 1350,
+    "company": "KRIBHCO",
+    "description": "KRIBHCO Di-Ammonium Phosphate (DAP) is a high-quality granulated fertilizer that provides a balanced combination of 18% nitrogen (N) and 46% phosphorus (P₂O₅), both of which are essential macronutrients for plant growth. It is highly water-soluble, ensuring quick nutrient uptake, and is particularly well-suited as a basal fertilizer during the initial sowing stage. DAP promotes strong root development and overall plant vigor, leading to enhanced crop yield and improved soil fertility.",
+    "image": " https://www.kribhco.net/assets/img/product/bharat_dap.jpg ",
+    "unit": "50 Kg"
+  },
+  {
+    "id": "30",
+    "name": " Bharat NPK 12-32-16 Fertilizer ",
+    "category": "Fertilizers",
+    "price": 1470,
+    "company": "KRIBHCO",
+    "description": "KRIBHCO NPK 12-32-16 is a complex granulated fertilizer that provides a balanced mix of 12% Nitrogen, 32% Phosphorus, and 16% Potash. It is an ideal fertilizer for crops that require a high concentration of phosphorus during the early growth stages to promote strong root development. It also supports overall plant vigor, tillering, and healthy growth, making it suitable for a wide range of crops, including wheat, paddy, pulses, and vegetables.",
+    "image": " https://www.kribhco.net/assets/img/product/bharat_npk_2.jpg ",
+    "unit": "50 Kg"
+  },
+  {
+    "id": "31",
+    "name": " Bharat MOP (Muriate of Potash) ",
+    "category": "Fertilizers",
+    "price": 1670,
+    "company": "KRIBHCO",
+    "description": "KRIBHCO Bharat MOP, or Muriate of Potash (Potassium Chloride), is a premium granular fertilizer containing 60% potash (K₂O), an essential nutrient for plant growth and quality. Potassium plays a vital role in the formation of proteins and sugars, strengthens plant stems, and enhances disease resistance. It also helps plants manage water, improving drought resistance. KRIBHCO's MOP features uniform, pink-colored granules that are easily spread and blended with other fertilizers.",
+    "image": " https://www.kribhco.net/assets/img/product/bharat_mop.jpg ",
+    "unit": "50 Kg"
+  },
+  {
+    "id": "32",
+    "name": " Liquid Bio-Fertilizer ",
+    "category": "Fertilizers",
+    "price": 250,
+    "company": "KRIBHCO",
+    "description": "KRIBHCO Liquid Bio-Fertilizers (LBF) are a range of ecofriendly, ready-to-use formulations containing beneficial, live microorganisms. They boost soil fertility and plant growth naturally by fixing atmospheric nitrogen, solubilizing phosphorus and zinc, and mobilizing potash. This reduces the need for chemical fertilizers and promotes sustainable agricultural practices.",
+    "image": " https://www.kribhco.net/assets/img/product/lbf7.png ",
+    "unit": "1 Liter"
+  },
+  {
+    "id": "33",
+    "name": " Natural Potash Fertilizer ",
+    "category": "Fertilizers",
+    "price": 1000,
+    "company": "KRIBHCO",
+    "description": "KRIBHCO Natural Potash is a potassium-rich, organic fertilizer manufactured from molasses, a byproduct of the sugar industry. It is correctly formulated and suitable for all types of plants and crops. The product helps in the photosynthesis process and improves the quality and shelf-life of the crop produce. It also activates growth-related enzymes in plants, improves soil aeration, and enhances the soil's water-retaining capability.",
+    "image": " https://www.kribhco.net/assets/img/product/natural_potash.jpg ",
+    "unit": "50 Kg"
+  },
+  {
+    "id": "34",
+    "name": " NPK 16:16:16 Fertiliser ",
+    "category": "Fertilizers",
+    "price": 1400,
+    "company": "Mahadhan",
+    "description": "Mahadhan NPK 16:16:16 is a balanced complex fertilizer containing equal proportions of 16% Nitrogen, 16% Phosphorus, and 16% Potash. All three nutrients are in a highly water-soluble form, allowing for quick and easy uptake by plants. The nitrogen is available in two forms—5% in ammoniacal form for quick release and 12% in urea form for a sustained supply—ensuring a steady feed to crops throughout their growth cycle. This versatility makes it ideal for a wide variety of crops, from vegetables and fruits to cereals and pulses, as it supports strong vegetative growth, robust root systems, and improved flowering and fruiting.",
+    "image": " https://mahadhan.co.in/wp-content/uploads/2017/05/16-16-16.png ",
+    "unit": "50 Kg"
+  },
+  {
+    "id": "35",
+    "name": " SSP (Single Super Phosphate) Fertiliser ",
+    "category": "Fertilizers",
+    "price": 1000,
+    "company": "Mahadhan",
+    "description": "Mahadhan SSP is a cost-effective, multi-nutrient fertilizer that supplies crops with 16% phosphorus (P₂O₅), 11% sulfur (S), and 21% calcium (Ca). It is available in both powder and granular forms. Vigorous root growth. Increased oil content in oilseed crops due to its sulfur content. Stronger plant stems and enhanced pest resistance due to its calcium content. Nodulation on the roots of legume crops. Improved overall crop yield and quality",
+    "image": " https://mahadhan.co.in/wp-content/uploads/2017/05/single-phosper-sulfate.png ",
+    "unit": "50 Kg"
+  },
+  {
+    "id": "36",
+    "name": " Silicon Fertiliser ",
+    "category": "Fertilizers",
+    "price": 1500,
+    "company": "Mahadhan",
+    "description": "Mahadhan Shakti is a type of silicon fertilizer from Mahadhan that is used to improve soil quality and crop health. This fertilizer supplies plants with bio-available silicon in the form of monosilicic or orthosilicic acid, which strengthens plant cell walls.",
+    "image": " https://mahadhan.co.in/wp-content/uploads/2017/05/Mahadhan-Silicon.png ",
+    "unit": "40 Kg"
+  },
+  {
+    "id": "37",
+    "name": " Rise Liquid Fertiliser ",
+    "category": "Fertilizers",
+    "price": 300,
+    "company": "Mahadhan",
+    "description": "Mahadhan Rise is an organic liquid fertilizer containing naturally derived growth promoters, including organic acids and vitamins. It is designed to be absorbed quickly by plants, with a specific focus on promoting strong white root growth during the initial stages of development. By enhancing the activity of beneficial microorganisms in the soil, it improves nutrient uptake and overall crop vigor, leading to better quality produce and higher yields.",
+    "image": " https://mahadhan.co.in/wp-content/uploads/2017/05/MahadhanRise.png ",
+    "unit": "500 ML"
+  },
+  {
+    "id": "38",
+    "name": " 00:00:50 Water Soluable Fertilizer ",
+    "category": "Fertilizers",
+    "price": 5125,
+    "company": "Mahadhan",
+    "description": "Mahadhan Water Soluble Fertilizer 00:00:50 is Sulphate of Potash (SOP), a fast-acting fertilizer containing 50% Potassium Oxide (K₂O) and 17.5% Sulphur. It is completely water-soluble and is primarily used to provide potassium and sulphur during the reproductive stages of crops. Potassium enhances fruit and vegetable quality, while sulphur aids in strengthening the plant structure and improves the oil content in oilseed crops. This fertilizer can be applied through foliar spray or drip irrigation.",
+    "image": " https://mahadhan.co.in/wp-content/uploads/2017/05/06.png ",
+    "unit": "25 Kg"
+  },
+  {
+    "id": "39",
+    "name": " 13:00:45 (KNO3) Water Soluable Fertiliser  ",
+    "category": "Fertilizers",
+    "price": 280,
+    "company": "Mahadhan",
+    "description": "Mahadhan 13:00:45 is a high-quality, 100% water-soluble fertilizer containing 13% Nitrogen and 45% Potassium (Potassium Nitrate). This fast-acting fertilizer is widely used during the flowering and fruiting stages of a crop's life cycle. It enhances fruit weight, quality, and overall productivity. Potassium boosts plant health, strengthens stems, improves disease resistance, and helps regulate water absorption, while nitrogen supports photosynthesis and promotes robust growth. It is suitable for all types of crops and can be applied through fertigation or as a foliar spray.",
+    "image": " https://mahadhan.co.in/wp-content/uploads/2017/05/PZ-Mahadhan-300x413-adaptation-bag-WSF-13-0-45.png ",
+    "unit": "1 Kg"
+  },
+  {
+    "id": "40",
+    "name": " 19:19:19 NPK Water Soluable Fertiliser ",
+    "category": "Fertilizers",
+    "price": 170,
+    "company": "Mahadhan",
+    "description": "Mahadhan Water Soluble Fertilizer 19:19:19 is a balanced, high-quality powder fertilizer containing equal proportions of 19% Nitrogen, 19% Phosphorus, and 19% Potash. This fertilizer promotes strong root development and overall vegetative growth, making it an excellent choice for use at the beginning of the growing season. Being 100% water-soluble, it is ideal for application through drip irrigation and foliar spray, ensuring rapid nutrient uptake by the crop. Its versatility and balanced nutrient profile make it suitable for a wide range of crops.",
+    "image": " https://mahadhan.co.in/wp-content/uploads/2017/05/PZ-Mahadhan-300x413-adaptation-bag-19-19-19.png ",
+    "unit": "1 Kg"
+  },
+  {
+    "id": "41",
+    "name": " Calcium Nitrate (CaNO3) Water Soluble Fertilizer) ",
+    "category": "Fertilizers",
+    "price": 7500,
+    "company": "Mahadhan",
+    "description": "Mahadhan Calcium Nitrate is a 100% water-soluble fertilizer that provides crops with a highly available source of calcium (18.8%) and nitrate nitrogen (15.5%). The fertilizer is specially formulated to strengthen plant cell walls, increasing the crop's resilience against environmental stress, pests, and diseases. It is particularly effective during the flowering and fruiting stages, preventing deficiencies like blossom end rot in tomatoes and improving the overall firmness, quality, and shelf life of fruits.",
+    "image": " https://mahadhan.co.in/wp-content/uploads/2017/05/PZ-Mahadhan-300x413-adaptation-bag-WSF-Calcium-Nitrate.png ",
+    "unit": "25 Kg"
+  },
+  {
+    "id": "42",
+    "name": " Flowering Special Fertiliser ",
+    "category": "Fertilizers",
+    "price": 300,
+    "company": "Mahadhan",
+    "description": "Mahadhan Flowering Special is a 100% water-soluble foliar fertilizer specifically formulated to enhance flowering and fruit set. Its balanced nutrient profile of 9% Nitrogen (N), 27% Phosphorus (P), and 18% Potassium (K) is tailored for the reproductive stage of crops. It is further enriched with essential micronutrients like Sulphur, Boron, and Molybdenum, which help reduce flower and fruit drop, improve overall crop productivity, and ensure comprehensive plant nourishment. This versatile fertilizer is suitable for a wide range of crops, including fruits, vegetables, pulses, and cereals.",
+    "image": " https://mahadhan.co.in/wp-content/uploads/2019/01/Bag_Design-1.jpg ",
+    "unit": "1 Kg"
+  },
+  {
+    "id": "43",
+    "name": " 13:00:45 Premium KNO3 Fertilizer  ",
+    "category": "Fertilizers",
+    "price": 4000,
+    "company": "Mahadhan",
+    "description": "Mahadhan 13:00:45 is a high-quality, 100% water-soluble Potassium Nitrate (KNO₃) fertilizer containing 13% Nitrogen and 45% Potassium. It is particularly effective during the flowering and fruiting stages of a crop's life cycle, enhancing fruit weight, size, and overall productivity. This fast-acting fertilizer is also known for strengthening plants against abiotic stresses like drought and heat, and improving disease resistance. It is suitable for application through fertigation or foliar spray across a wide range of crops.",
+    "image": " https://mahadhan.co.in/wp-content/uploads/2025/01/Mahadhan-Premium-KNO3-768x816.jpg ",
+    "unit": "25 Kg"
+  },
+  {
+    "id": "44",
+    "name": " Croptek 8:21:21 Fertilizer ",
+    "category": "Fertilizers",
+    "price": 1800,
+    "company": "Mahadhan",
+    "description": "Mahadhan Croptek 8:21:21 is an enhanced-efficiency granulated fertilizer designed to improve crop tolerance to environmental stresses and maximize nutrient uptake. Formulated with Mahadhan's unique Nutrient Unlock Technology (NUT), it provides a balanced mix of 8% Nitrogen, 21% Phosphorus, and 21% Potassium. Beyond the core NPK, this innovative product also contains secondary and micronutrients such as Magnesium, Sulphur, Boron, Zinc, and Iron, ensuring a more comprehensive and balanced diet for the plant. The NUT system improves the soil's efficiency and helps crops absorb nutrients more effectively, leading to vigorous growth and higher yields.",
+    "image": " https://mahadhan.co.in/wp-content/uploads/2022/01/Croptek-82121.png ",
+    "unit": "40 Kg"
+  },
+  {
+    "id": "45",
+    "name": " Smartek 20:20:0:13 Fertilizer ",
+    "category": "Fertilizers",
+    "price": 1100,
+    "company": "Mahadhan",
+    "description": "Mahadhan Smartek 20:20:0:13 is an enhanced-efficiency fertilizer developed with Mahadhan's patented 'Smartek' coating technology. This granular fertilizer contains 20% Nitrogen (in ammoniacal and amide forms) and 20% Phosphate. Notably, 85% of the phosphorus is water-soluble, making it highly available for crops. It is also enriched with 13% Sulphur, the fourth most important nutrient after NPK, making it especially effective for sulphur-deficient soils. The special organic acid coating on each granule enhances root growth and improves nutrient uptake by the plant, leading to higher yields and improved quality.",
+    "image": " https://mahadhan.co.in/wp-content/uploads/2018/12/PZ-Mahadhan-300x413-adaptation-bag-Smartek-NPK-16-20-0-13.png ",
+    "unit": "50 Kg"
+  },
+  {
+    "id": "46",
+    "name": " Neozin (Atrazine 50% WP) Herbicide ",
+    "category": "Pesticides",
+    "price": 330,
+    "company": "UPL",
+    "description": "Neozin is a selective, systemic, pre- and early post-emergence herbicide containing 50% Atrazine in a wettable powder (WP) formulation. It is used to control a broad spectrum of annual broadleaf weeds and some grasses in major crops like maize (corn) and sugarcane. It is absorbed through the roots and foliage, interfering with photosynthesis in susceptible weeds, which eventually leads to their death.",
+    "image": " https://in.upl-ltd.com/product_images/NEOZIN.png ",
+    "unit": "500 Gram"
+  },
+  {
+  "id": "47",
+  "name": " Ajya (Clodinafop-Propargyl + Oxyfluorfen) Herbicide ",
+  "category": "Pesticides",
+  "price": 960,
+  "company": "UPL",
+  "description": "UPL's Ajya is a post-emergent selective herbicide designed for onion crops, with a dual-action formula of Clodinafop-Propargyl and Oxyfluorfen. It targets both broadleaf and grassy weeds, providing long-lasting control without harming the crop. It is a liquid formulation available in various sizes.",
+  "image": " https://in.upl-ltd.com/product_images/Ajya-2837.png ",
+  "unit": "400 ml"
+  },
+  {
+    "id": "48",
+    "name": " Safaya Herbicide ",
+    "category": "Pesticides",
+    "price": 480,
+    "company": "UPL",
+    "description": "UPL Safaya is a selective, broad-spectrum herbicide formulated with 2,4-D Amine salt 58% SL. It is used to control a wide variety of broadleaf weeds in multiple crops like wheat, maize, potato, and sorghum, as well as in non-cropped and aquatic areas. As a systemic herbicide, it works by disrupting plant growth and development, effectively suppressing weeds without harming the main crop.",
+    "image": " https://in.upl-ltd.com/product_images/safaya%2011.png ",
+    "unit": "1 Liter"
+  },
+  {
+    "id": "49",
+    "name": " Sweep Power Herbicide ",
+    "category": "Pesticides",
+    "price": 870,
+    "company": "UPL",
+    "description": "UPL Sweep Power is a non-selective, post-emergent herbicide containing glufosinate ammonium 13.5% SL. It is used for broad-spectrum control of both annual and perennial broadleaf and grassy weeds in various crops like cotton and tea. As a non-selective herbicide, it kills any plant it comes into contact with and is specifically designed for directed spray applications to avoid harming the main crop.",
+    "image": " https://in.upl-ltd.com/product_images/Sweep%20Power_1.png ",
+    "unit": "1 Liter"
+  },
+  {
+    "id": "50",
+    "name": " Dost Super Herbicide - Pendimethalin 38.7% CS ",
+    "category": "Pesticides",
+    "price": 600,
+    "company": "UPL",
+    "description": "UPL Dost Super is a selective pre-emergent herbicide containing Pendimethalin 38.7% CS. Its micro-encapsulated (CS) formulation provides long-lasting, effective control of annual grasses and broadleaf weeds before they emerge. It works by inhibiting cell division in the root tips of germinating weed seeds. Dost Super is recommended for use in crops such as soybean, cotton, chili, and onion.",
+    "image": " https://in.upl-ltd.com/product_images/Dost%20Super-1123.png ",
+    "unit": "700 ml"
+  },
+  {
+    "id": "51",
+    "name": " Saathi Herbicide ",
+    "category": "Pesticides",
+    "price": 330,
+    "company": "UPL",
+    "description": "UPL Saathi is a pre-emergent systemic herbicide designed for effective weed control in paddy fields. Its active ingredient, Pyrazosulfuron Ethyl 10% WP, targets a wide range of weeds, including sedges and broadleaf weeds, before they can establish. Saathi is considered safe for rice seedlings and provides a long-lasting residual effect, offering sustained protection for the crop.",
+    "image": " https://in.upl-ltd.com/product_images/Saathi-2100.png ",
+    "unit": "80 Gram"
+  },
+  {
+    "id": "52",
+    "name": " Dost Herbicide - Pendimethalin 30% ES ",
+    "category": "Pesticides",
+    "price": 550,
+    "company": "UPL",
+    "description": "UPL Dost is a selective, pre-emergent herbicide containing Pendimethalin 30% EC. It is used to control a wide range of annual grasses and certain broadleaf weeds in various crops, including soybean, cotton, wheat, paddy, and pigeon pea. Applied as a blanket spray on the soil just after sowing and before weed emergence, it works by inhibiting cell division in germinating weed seeds.",
+    "image": " https://in.upl-ltd.com/product_images/DOST-1050.png ",
+    "unit": "1 Liter"
+  },
+  {
+    "id": "53",
+    "name": " Lagaam Herbicide - Imazethapyr 10% SL ",
+    "category": "Pesticides",
+    "price": 1200,
+    "company": "UPL",
+    "description": "UPL Lagaam is a selective, post-emergent herbicide with the active ingredient Imazethapyr 10% SL. It provides broad-spectrum control of both broadleaf and grassy weeds in soybean and groundnut crops. As a systemic herbicide, it works by disrupting protein and DNA synthesis in the weeds, killing them and providing residual action to prevent future weed growth.",
+    "image": " https://in.upl-ltd.com/product_images/Lagaam.png ",
+    "unit": "1 Liter"
+  },
+  {
+    "id": "54",
+    "name": " Laurel Fungicide ",
+    "category": "Pesticides",
+    "price": 1000,
+    "company": "UPL",
+    "description": "UPL Laurel is a fungicide with a dual mode of action, providing both systemic and contact protection. Its combination of Mancozeb (60%) and Pyraclostrobin (5%) WG is effective against a broad spectrum of fungal diseases. It offers both protective and curative action and is used on various crops, including cotton, tomato, and black gram.",
+    "image": " https://in.upl-ltd.com/product_images/Laurel%20Pouch.png ",
+    "unit": "1 Liter"
+  },
+  {
+    "id": "55",
+    "name": " Glowed Fungicide - 6.7% Tebuconazole & 26.9% SC Captan ",
+    "category": "Pesticides",
+    "price": 1000,
+    "company": "UPL",
+    "description": "UPL Glowed is a dual-action fungicide with Tebuconazole 6.7% and Captan 26.9% SC. It works on contact and systemically with translaminar action, disrupting multiple stages of fungal growth. It is used to control diseases like Alternaria blight, Anthracnose, and Powdery mildew in crops such as chili and apple.",
+    "image": " https://in.upl-ltd.com/product_images/Glowed.png ",
+    "unit": "1 Liter"
+  },
+  {
+    "id": "56",
+    "name": " Uthane M 45 Fungicide - 75% WP Mancozeb ",
+    "category": "Pesticides",
+    "price": 560,
+    "company": "UPL",
+    "description": "UPL Uthane M-45 is a broad-spectrum, contact fungicide containing Mancozeb 75% WP. It works by inhibiting the activity of various enzymes in fungi, providing effective protection against a wide range of diseases in crops like brinjal, cotton, cauliflower, chilli, grapes, and potato. Uthane M-45 is known for its multi-site mode of action, which minimizes the risk of fungicide resistance. It is used as a foliar spray or for seed treatment to prevent diseases such as early and late blight, leaf spot, rust, and downy mildew.",
+    "image": " https://in.upl-ltd.com/product_images/Uthane.png ",
+    "unit": "1 Kg"
+  },
+  {
+    "id": "57",
+    "name": " Saaf Fungicide - 12% Carbendazim 63% WP Mancozeb ",
+    "category": "Pesticides",
+    "price": 700,
+    "company": "UPL",
+    "description": "UPL Saaf is a dual-action, broad-spectrum fungicide containing Carbendazim 12% + Mancozeb 63% WP. The combination of a systemic and a contact fungicide provides both protective and curative action against a wide range of fungal diseases. Saaf is effective against diseases like powdery mildew, leaf spot, rust, and blights in various crops, including fruits, vegetables, and cereals.",
+    "image": " https://in.upl-ltd.com/product_images/SAAF.png ",
+    "unit": "1 Kg"
+  },
+  {
+    "id": "58",
+    "name": "Roztam Fungicide (Azoxystrobin 11% + Tebuconazole 18.3% SC) ",
+    "category": "Pesticides",
+    "price": 1999,
+    "company": "AgroStar",
+    "description": "Roztam is a unique systemic and broad-spectrum fungicide with protective and curative action which offers not only a disease control but also improves quality and yield of crop.",
+    "image": "https://static.agrostar.in/static/AGS-CP-1215_1.gif",
+    "unit": "1 Liter"
+  },
+  {
+    "id": "59",
+    "name": " Reinster Insecticide - 0.83 Chlorantraniliprole 1.33 GR Fipronil ",
+    "category": "Pesticides",
+    "price": 1200,
+    "company": "UPL",
+    "description": "UPL Reinster is an insecticide. It is a granular formulation containing Chlorantraniliprole 0.83% and Fipronil 1.33%. Reinster offers a dual mode of action, providing both contact and systemic protection against stubborn borers in crops like paddy. It provides long-lasting control, enhances crop vigor, and promotes better root growth and tillers.",
+    "image": " https://in.upl-ltd.com/product_images/Reinster.png ",
+    "unit": "2 Kg"
+  },
+  {
+    "id": "60",
+    "name": " Viraat Insecticide - 20% Quinolphos 3% EC Cypermethrin ",
+    "category": "Pesticides",
+    "price": 900,
+    "company": "UPL",
+    "description": "UPL Viraat is an insecticide. It is an Emulsifiable Concentrate (EC) combining Quinalphos 20% and Cypermethrin 3%. Viraat offers both systemic and contact action to control a broad spectrum of pests, including borers, bollworms, and jassids in crops like cotton and brinjal.",
+    "image": " https://in.upl-ltd.com/product_images/Viraat-5856.png ",
+    "unit": "1 Liter"
+  },
+  {
+    "id": "61",
+    "name": " Ulala Insecticide - 50 WG Flonicamid ",
+    "category": "Pesticides",
+    "price": 6000,
+    "company": "UPL",
+    "description": "UPL Ulala is a systemic insecticide with Flonicamid 50% WG as its active ingredient. It acts as a feeding blocker that effectively controls a broad spectrum of sucking pests, such as aphids, jassids, whiteflies, and thrips, in crops like cotton, paddy, and various fruits and vegetables. Ulala's unique mode of action works systemically within the plant and is also translaminar, protecting new growth. It is also considered safe for beneficial insects.",
+    "image": " https://in.upl-ltd.com/product_images/ULALA.png ",
+    "unit": "500 Gram"
+  },
+  {
+    "id": "62",
+    "name": " Shenzi Insecticide - 18.5% SC Chlorantraniliprole ",
+    "category": "Pesticides",
+    "price": 3000,
+    "company": "UPL",
+    "description": "UPL Shenzi is a broad-spectrum insecticide with Chlorantraniliprole 18.5% SC as its active ingredient. It provides effective control against a wide range of lepidopteran (caterpillar) pests, including borers, larvae, and bollworms, with systemic and translaminar action. It promotes healthy crop growth and is suitable for various crops, including sugarcane, rice, soybean, and vegetables.",
+    "image": " https://in.upl-ltd.com/product_images/Shenzi_New.png ",
+    "unit": "1 Liter"
+  },
+  {
+    "id": "63",
+    "name": " Ustaad Insecticide - 10% EC Cypermethrin ",
+    "category": "Pesticides",
+    "price": 1200,
+    "company": "UPL",
+    "description": "UPL Ustaad is a broad-spectrum, contact insecticide containing Cypermethrin 10% EC. It provides quick knockdown control of various chewing and sucking pests by disrupting their nervous systems. Ustaad is effective against pests like borers, bollworms, and diamondback moths in crops such as cotton, cabbage, okra, brinjal, and wheat. It is known for its effectiveness even in rainy conditions.",
+    "image": " https://in.upl-ltd.com/product_images/Ustaad.png",
+    "unit": "1 Liter"
+  },
+  {
+    "id": "64",
+    "name": " BUNKER Herbicide - Pendimethalin 30% EC ",
+    "category": "Pesticides",
+    "price": 450,
+    "company": "PI",
+    "description": "PI Industries' Bunker is a selective pre-emergent herbicide containing Pendimethalin 30% EC. It offers broad-spectrum control of both annual grasses and certain broadleaf weeds by forming a thin layer on the soil surface that inhibits weed germination. It works by inhibiting cell division in the root and shoots of germinating weeds.",
+    "image": " https://www.piindustries.com/wp-content/uploads/2025/02/bunker.png ",
+    "unit": "1 Liter"
+  },
+  {
+    "id": "65",
+    "name": " ELITE Herbicide - Topramezone 33.6 % SC ",
+    "category": "Pesticides",
+    "price": 4300,
+    "company": "PI",
+    "description": "PI Elite is a selective, post-emergent herbicide with the active ingredient Topramezone 33.6% SC, specifically developed for use on maize (corn) crops. It provides fast and effective control of a broad spectrum of narrow-leaf and broadleaf weeds without harming the crop. Elite works by inhibiting the HPPD enzyme in susceptible weeds, which leads to bleaching and eventual death of the weed. For best results, it should be applied when weeds are in the 2- to 5-leaf stage. Elite is often used in combination with an adjuvant, such as PI's Solaro, for synergistic effects.",
+    "image": " https://www.piindustries.com/wp-content/uploads/2025/02/elite.png ",
+    "unit": "70 ml"
+  },
+  {
+    "id": "66",
+    "name": " NOMINEE GOLD Herbicide - Bispyribac Sodium 10% SC ",
+    "category": "Pesticides",
+    "price": 3200,
+    "company": "PI",
+    "description": "PI Nominee Gold is a post-emergent, broad-spectrum, systemic herbicide containing Bispyribac Sodium 10% SC. It is used for weed control in all types of rice cultivation, including nurseries, transplanted rice, and direct-seeded rice. It controls major grasses, sedges, and broadleaf weeds. The herbicide is quickly absorbed by the weeds and is rain-fast within six hours of application.",
+    "image": " https://www.piindustries.com/wp-content/uploads/2025/02/nominee-gold.png ",
+    "unit": "1 Liter"
+  },
+  {
+    "id": "67",
+    "name": " PROVIDE Herbicide - Pyrithiobac sodium 6% & Quizalofop ethyl 4% EC ",
+    "category": "Pesticides",
+    "price": 3370,
+    "company": "PI",
+    "description": "PI Provide is a selective, early post-emergent herbicide for cotton crops, containing Pyrithiobac sodium 6% and Quizalofop ethyl 4% EC. Its dual-action formulation targets and controls a broad spectrum of both grassy and broadleaf weeds. This systemic herbicide is absorbed by the foliage and roots of weeds, inhibiting key metabolic processes and ensuring long-lasting residual control. By effectively controlling weed competition, it helps improve the yield and productivity of cotton.",
+    "image": " https://www.piindustries.com/wp-content/uploads/2025/02/provide.png ",
+    "unit": "1 Liter"
+  },
+  {
+    "id": "68",
+    "name": " WICKET Herbicide - Clodinafop-propargyl 15% WP ",
+    "category": "Pesticides",
+    "price": 300,
+    "company": "PI",
+    "description": "PI Wicket is a selective, post-emergent systemic herbicide containing Clodinafop-propargyl 15% WP. It is primarily used to control major grassy weeds, including Phalaris minor and wild oats, in wheat crops. The wettable powder formulation works by inhibiting an enzyme critical for the synthesis of lipids in weeds, causing their growth to stop and leading to their eventual death.",
+    "image": " https://www.piindustries.com/wp-content/uploads/2025/02/wicket.png ",
+    "unit": "160 Gram"
+  },
+  {
+    "id": "69",
+    "name": " CLUTCH Fungicide - Pyraclostrobin 5% + Metiram 55% WG ",
+    "category": "Pesticides",
+    "price": 1400,
+    "company": "PI",
+    "description": "PI Clutch is a dual-mode, broad-spectrum fungicide that combines Metiram for contact protection and Pyraclostrobin for systemic and translaminar action. It offers both protective and curative benefits, effectively controlling diseases like early and late blight, downy mildew, and anthracnose. The WG (water-dispersible granule) formulation ensures good coverage and long-lasting protection, which also leads to improved crop health and yield.",
+    "image": " https://www.piindustries.com/wp-content/uploads/2025/03/clutch.png ",
+    "unit": "600 Gram"
+  },
+  {
+    "id": "70",
+    "name": " KADETT Fungicide - Penflufen 13.28% w/w + Trifloxystrobin 13.28% w/w FS ",
+    "category": "Pesticides",
+    "price": 1000,
+    "company": "PI",
+    "description": "PI Kadett is a dual-action seed treatment fungicide from PI Industries, featuring Penflufen 13.28% w/w and Trifloxystrobin 13.28% w/w FS. It is designed to protect seeds and seedlings from various soil-borne and seed-borne fungal diseases, particularly in crops like cotton, groundnut, and soybean.",
+    "image": " https://www.piindustries.com/wp-content/uploads/2025/03/Kadett.png ",
+    "unit": "300 ml"
+  },
+  {
+    "id": "71",
+    "name": " CARINA Insectivide - Profenofos 50% EC ",
+    "category": "Pesticides",
+    "price": 900,
+    "company": "PI",
+    "description": "PI Carina is a broad-spectrum, organophosphate insecticide and acaricide containing Profenofos 50% EC. It provides quick and effective control against a wide range of chewing and sucking pests, including aphids, bollworms, caterpillars, mites, and whiteflies. Carina works on contact and through ingestion, inhibiting an enzyme in the insect's nervous system, leading to paralysis and death. It also exhibits translaminar action, reaching pests on the underside of leaves, and offers ovicidal and larvicidal action for prolonged pest suppression.",
+    "image": " https://www.piindustries.com/wp-content/uploads/2025/02/carina.png ",
+    "unit": "1 Liter"
+  },
+  {
+    "id": "72",
+    "name": " DINOACE Insecticide Dinotefuran 4% + Acephate 50% (w/w) SG ",
+    "category": "Pesticides",
+    "price": 1300,
+    "company": "PI",
+    "description": "PI Dinoace is a broad-spectrum, systemic insecticide formulated as a water-soluble granule (SG). It combines Dinotefuran 4% and Acephate 50% to provide a dual mode of action that targets both chewing and sucking pests. It is primarily used in rice and cotton to control pests such as brown plant hopper, white-backed plant hopper, aphids, jassids, thrips, and whiteflies.",
+    "image": " https://www.piindustries.com/wp-content/uploads/2025/02/dinoace.png ",
+    "unit": "1 Kg"
+  },
+  {
+    "id": "73",
+    "name": " DORITO Insecticide - Diafenthiuron 48% + Dinotefuran 8% WG ",
+    "category": "Pesticides",
+    "price": 1500,
+    "company": "PI",
+    "description": "PI Dorito is a patented, broad-spectrum, next-generation insecticide from PI Industries, featuring a dual-action formula of Diafenthiuron 48% and Dinotefuran 8% WG. It is specifically designed to control a wide range of sucking and chewing pests, with a particular focus on whiteflies. The combination of a neonicotinoid and a thiourea group insecticide ensures a quick knockdown effect and prolonged residual control through contact, systemic, and ingestion actions.",
+    "image": " https://www.piindustries.com/wp-content/uploads/2025/06/Dorito.jpg ",
+    "unit": "1 Kg"
+  },
+  {
+    "id": "74",
+    "name": " MAXIMA Insecticide - Thiamethoxam 25 % WG ",
+    "category": "Pesticides",
+    "price": 2000,
+    "company": "PI",
+    "description": "PI Maxima is a broad-spectrum, systemic insecticide from PI Industries containing Thiamethoxam 25% WG. It is part of the neonicotinoid class of insecticides and works by inhibiting the central nervous system of insect pests, leading to paralysis and death. Maxima is highly effective against a wide range of sucking pests, including those that have developed resistance to older insecticides.",
+    "image": " https://www.piindustries.com/wp-content/uploads/2025/02/maxima.png ",
+    "unit": "1 Kg"
+  },
+  {
+    "id": "75",
+    "name": " Turmoil Herbicide ",
+    "category": "Pesticides",
+    "price": 1100,
+    "company": "Dhanuka",
+    "description": "Dhanuka Turmoil is a non-selective, post-emergent herbicide containing Glufosinate Ammonium 13.5% SL. It is effective against a broad spectrum of annual and perennial grassy and broadleaf weeds in crops like cotton and tea. When applied correctly, it effectively controls weeds without harming the crop.",
+    "image": " https://api.dhanuka.com/images/2025/7/1753966891308-qIO3GLuNpt6LQjbZso2X-removebg-preview.png ",
+    "unit": "1 Liter"
+  },
+  {
+    "id": "78",
+    "name": " Targa Super Herbicide ",
+    "category": "Pesticides",
+    "price": 1540,
+    "company": "Dhanuka",
+    "description": "Dhanuka Targa Super is a selective, systemic, post-emergent herbicide with Quizalofop Ethyl 5% EC as its active ingredient. It is used to control narrow-leaf weeds (grasses) in broadleaf crops such as soybean, cotton, groundnut, onion, and black gram. The herbicide is quickly absorbed and translocated throughout the weed, killing it completely without harming the broadleaf crop.",
+    "image": " https://api.dhanuka.com/images/2025/4/1743842415230-targa.webp ",
+    "unit": "1 Liter"
+  },
+  {
+    "id": "79",
+    "name": " Ozone Herbicide ",
+    "category": "Pesticides",
+    "price": 430,
+    "company": "Dhanuka",
+    "description": "Dhanuka Ozone is a broad-spectrum, non-selective contact herbicide containing Paraquat Dichloride 24% SL. It is used to control broadleaf weeds and grasses by disrupting photosynthesis and damaging plant cells. Its quick, foliar action is effective for post-emergence directed application and pre-plant applications in various crops, including tea, cotton, and paddy.",
+    "image": " https://api.dhanuka.com/images/2024/12/a5EFxdhhXqjLFuG7F7Wq.png ",
+    "unit": "1 Liter"
+  },
+  {
+    "id": "80",
+    "name": " Zerox Fungicide ",
+    "category": "Pesticides",
+    "price": 1100,
+    "company": "Dhanuka",
+    "description": "Dhanuka Zerox is a systemic fungicide with Propiconazole 25% EC as its active ingredient. It belongs to the triazole group and offers a broad range of activity, providing both protective and curative action against a wide variety of fungal diseases. It is primarily used as a foliar spray to manage leaf and stem diseases in cereals.",
+    "image": " https://api.dhanuka.com/images/2024/12/JvHr73KPlM7grRdzeIHR.png ",
+    "unit": "1 Liter"
+  },
+  {
+    "id": "81",
+    "name": " Dhanustin Fungicide ",
+    "category": "Pesticides",
+    "price": 500,
+    "company": "Dhanuka",
+    "description": "",
+    "image": " https://api.dhanuka.com/images/2024/12/s5klhrQEvLH344PLkyU5.png ",
+    "unit": "1 Kg"
+  },
+  {
+    "id": "82",
+    "name": " Sixer Fungicide ",
+    "category": "Pesticides",
+    "price": 720,
+    "company": "Dhanuka",
+    "description": "Dhanuka Sixer is a broad-spectrum, dual-action fungicide with a combination of Mancozeb 63% WP (contact) and Carbendazim 12% WP (systemic). It provides both protective and curative action against a wide range of fungal diseases by inhibiting spore germination and disrupting fungal cell division. It is used on various crops, including paddy, groundnut, potato, and grapes.",
+    "image": " https://api.dhanuka.com/images/2024/12/JyiHSNjWeQ7t0FglhNoo.png ",
+    "unit": "1 Kg"
+  },
+  {
+    "id": "83",
+    "name": " Aaatank Insecticide ",
+    "category": "Pesticides",
+    "price": 1100,
+    "company": "Dhanuka",
+    "description": "Dhanuka Aaatank is a broad-spectrum, systemic insecticide containing Carbosulfan 25% EC. Belonging to the carbamate group, it provides a dual-action effect by working as both a contact and a stomach poison to control various pests. It acts as a cholinesterase inhibitor in insects, disrupting their nervous functions and leading to paralysis and death.",
+    "image": " https://api.dhanuka.com/images/2025/6/1749880409821-aatank.png ",
+    "unit": "1 Liter"
+  },
+  {
+    "id": "84",
+    "name": " Dhanpreet Insecticide ",
+    "category": "Pesticides",
+    "price": 1100,
+    "company": "Dhanuka",
+    "description": "Dhanuka Dhanpreet is a systemic insecticide containing Acetamiprid 20% SP (soluble powder). It is a highly effective neonicotinoid insecticide designed to control sucking pests like aphids, jassids, thrips, and whiteflies in various crops, including cotton, chilli, okra, and cereals. Its systemic and translaminar action allows it to effectively control pests hidden on the underside of leaves.",
+    "image": " https://api.dhanuka.com/images/2024/12/ETxI7ldm6pk4N0xnVLbR.png ",
+    "unit": "1 Kg"
+  },
+  {
+    "id": "85",
+    "name": " Superkiller Insecticide ",
+    "category": "Pesticides",
+    "price": 700,
+    "company": "Dhanuka",
+    "description": "Dhanuka Superkiller is a broad-spectrum, contact, and stomach insecticide containing Cypermethrin 25% EC. As a member of the synthetic pyrethroid group, it provides rapid knockdown control against a wide range of chewing and sucking pests. It is suitable for use on various crops, including cotton, sugarcane, maize, vegetables, and groundnut.",
+    "image": " https://api.dhanuka.com/images/2024/12/MHsK5Ol5qvJCPYvqUC7c.png ",
+    "unit": "1 Liter"
+  }
+]
